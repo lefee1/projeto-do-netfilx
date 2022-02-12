@@ -1,5 +1,5 @@
 :root{
-    --vermelho: rgba(252, 0, 0, 0.5); 
+    --vermelho: rgba(255, 8, 8, 0.719); 
     --preto: rgb(0, 0, 0); 
 }
 
@@ -16,10 +16,14 @@ body{
 
 
 header .container{
-
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
 }
 
 header .logo{
+    margin-left: 5px;
     color: var(--vermelho);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
