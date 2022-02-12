@@ -1,5 +1,8 @@
-:root
-    --
+:root{
+    --vermelho: rgba(252, 0, 0, 0.5); 
+    --preto: rgb(0, 0, 0); 
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -7,7 +10,7 @@
 }
 
 body{
-
+    background: var(--preto);
 }
 
 
