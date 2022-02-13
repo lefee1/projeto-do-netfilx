@@ -53,3 +53,11 @@ color: rgb(226, 226, 226);
     justify-content: center;
     align-items: flex-start;
 }
+
+.filme-pricipal .descricao{
+    margin-bottom: 40px;
+}
+
+.titulo{
+    font-size: 30px;
+}
