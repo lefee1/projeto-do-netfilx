@@ -82,3 +82,7 @@ color: rgb(226, 226, 226);
     background-color: white;
     color: black;
 }
+
+.botao i{
+    margin-right: 5px;
+}
