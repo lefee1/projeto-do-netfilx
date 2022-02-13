@@ -59,6 +59,7 @@ color: rgb(226, 226, 226);
 }
 
 .titulo{
+    margin-top: 30%;
     font-size: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
