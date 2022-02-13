@@ -86,3 +86,12 @@ color: rgb(226, 226, 226);
 .botao i{
     margin-right: 5px;
 }
+
+
+.container{
+    margin-left: 20px;
+}
+
+.container .filme-pricipal{
+    width: 70%;
+}
