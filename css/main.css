@@ -100,5 +100,5 @@ color: rgb(226, 226, 226);
 .box-filme{
     height: 100%;
     width: 100%;
-    display: flex;     
+    display: block;     
 }
