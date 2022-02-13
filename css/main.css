@@ -60,6 +60,7 @@ color: rgb(226, 226, 226);
 
 .titulo{
     font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .botao{
@@ -68,4 +69,6 @@ color: rgb(226, 226, 226);
     color: white;
 
     padding:15px 40px;
+    margin-right: 15px;
+    font-size: 12px;
 }
