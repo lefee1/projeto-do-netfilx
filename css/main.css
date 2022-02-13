@@ -95,3 +95,10 @@ color: rgb(226, 226, 226);
 .container .filme-pricipal{
     width: 70%;
 }
+
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;     
+}
